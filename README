@@ -1,0 +1,12 @@
+This tree contains all of the entries for the 2013 Scipy John Hunter
+Excellence in Plotting Contest.
+
+There is an easy-to-navigate set of web pages rooted at
+`build/html/index.html`.  This contains thumbnails and captions to all
+of the entries and links to other formats and source code.
+
+If you wish to run the source code and reproduce plots, each entry
+directory at the toplevel contains source code and data.  In some
+cases where the data is too large or proprietary has not been
+included.  In some cases, the source code is in a public source code
+repository, so it has not been duplicated here.
