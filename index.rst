@@ -1,121 +1,73 @@
-2013 Scipy John Hunter Excellence in Plotting Contest Entries
-=============================================================
+.. raw:: html
 
-.. image:: thumbnails/entry1.png
-   :width: 25%
-   :target: entry1/index.html
+  <div id="carousel-container">
+  <div id="carousel-example-generic" class="carousel slide">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#carousel-example-generic"
+          data-slide-to="0"
+          class="active">
+      </li>
+      <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    </ol>
 
-.. image:: thumbnails/entry2.png
-   :width: 25%
-   :target: entry2/index.html
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active dark-grey">
+        <div class="carousel-image">
 
-.. image:: thumbnails/entry3.png
-   :width: 25%
-   :target: entry3/index.html
+.. image:: carrousel/entry5.png
 
+.. raw:: html
 
-.. image:: thumbnails/entry4.png
-   :width: 25%
-   :target: entry4/index.html
+      </div>
+      <div class="carousel-text">
+        <h2>2013</h2>
+        <h3>Third place</h3>
+      </div>
 
-.. image:: thumbnails/entry5.png
-   :width: 25%
-   :target: entry5/index.html
+      </div>
+      <div class="item black">
+        <div class="carousel-image">
 
-.. image:: thumbnails/entry6.png
-   :width: 25%
-   :target: entry6/index.html
-
-
-.. image:: thumbnails/entry7.png
-   :width: 25%
-   :target: entry7/index.html
-
-.. image:: thumbnails/entry8.png
-   :width: 25%
-   :target: entry8/index.html
-
-.. image:: thumbnails/entry9.png
-   :width: 25%
-   :target: entry9/index.html
+.. image:: carrousel/entry3.png
 
 
-.. image:: thumbnails/entry10.png
-   :width: 25%
-   :target: entry10/index.html
+.. raw:: html
 
-.. image:: thumbnails/entry11.png
-   :width: 25%
-   :target: entry11/index.html
+        </div>
+        <div class="carousel-text">
+          <h2>2013</h2>
+          <h3>First place</h3>
+        </div>
 
-.. image:: thumbnails/entry12.png
-   :width: 25%
-   :target: entry12/index.html
+      </div>
 
+      <div class="item white">
+        <div class="carousel-image">
 
-.. image:: thumbnails/entry13.png
-   :width: 25%
-   :target: entry13/index.html
+.. image:: carrousel/entry7.png
 
-.. image:: thumbnails/entry14.png
-   :width: 25%
-   :target: entry14/index.html
+.. raw:: html
 
-.. image:: thumbnails/entry15.png
-   :width: 25%
-   :target: entry15/index.html
+        </div>
+        <div class="carousel-text">
+          <h2>2013</h2>
+          <h3>Third place</h3>
+        </div>
 
+      </div>
+    </div>
 
-.. image:: thumbnails/entry16.png
-   :width: 25%
-   :target: entry16/index.html
-
-.. image:: thumbnails/entry17.png
-   :width: 25%
-   :target: entry17/index.html
-
-.. image:: thumbnails/entry18.png
-   :width: 25%
-   :target: entry18/index.html
-
-
-.. image:: thumbnails/entry19.png
-   :width: 25%
-   :target: entry19/index.html
-
-.. image:: thumbnails/entry20.png
-   :width: 25%
-   :target: entry20/index.html
-
-.. image:: thumbnails/entry21.png
-   :width: 25%
-   :target: entry21/index.html
-
-
-Table of Contents
------------------
-
-.. toctree::
-   :maxdepth: 1
-
-   entry1/index
-   entry2/index
-   entry3/index
-   entry4/index
-   entry5/index
-   entry6/index
-   entry7/index
-   entry8/index
-   entry9/index
-   entry10/index
-   entry11/index
-   entry12/index
-   entry13/index
-   entry14/index
-   entry15/index
-   entry16/index
-   entry17/index
-   entry18/index
-   entry19/index
-   entry20/index
-   entry21/index
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic"
+        data-slide="prev">
+      <span class="icon-prev"></span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic"
+       data-slide="next">
+      <span class="icon-next"></span>
+    </a>
+  </div>
+  </div>

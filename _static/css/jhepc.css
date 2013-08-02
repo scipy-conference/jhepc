@@ -1,0 +1,156 @@
+body {
+  font-family: 'PT Sans', serif;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+p {
+  padding-right: 5em;
+  padding-bottom: 1em;
+  max-width: 60%;
+}
+
+div.navbar {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  background-color: rgb(255, 255, 255);
+  border-bottom: 1px solid;
+  border-bottom-color: rgb(189, 189, 189);
+  height: 65px;
+  z-index: 50;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.navbar-nav>li>a, .navbar-nav>.active>a, .navbar-nav>.active>a:hover,
+ .navbar-nav>.active>a.active {
+  background: transparent;
+  text-transform: uppercase;
+  font-weight: bold;
+  height: 65px;
+  vertical-align: middle;
+  padding: 20px 30px;
+}
+
+.navbar-nav>li>a>img {
+  visibility: hidden;
+  padding-left: 8px;
+  padding-bottom: 3px;
+}
+
+.navbar-nav>li>a:hover>img{
+  visibility: visible;
+}
+
+
+div.navbar ul {
+  float: right;
+}
+
+div.navbar .navbar-brand {
+  max-width: 400px;
+  vertical-align: middle;
+  padding: 20px;
+}
+
+div.navbar .navbar-brand {
+  padding-top: 7px;
+}
+
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+div.container{
+  min-height: 75%;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  border-bottom: 1px solid rgb(189, 189, 189);
+}
+
+div.container, footer {
+  padding: 5em 5em 5em 8em;
+}
+
+
+
+#carousel-container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1 a.headerlink {
+  display: none;
+  font-weight: normal;
+}
+
+h1 {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  font-family: 'PT Sans', serif;
+}
+
+.carousel-inner {
+  border-bottom: 1px solid rgb(189, 189, 189);
+}
+
+.carousel-inner .item {
+  margin: 0;
+  width: 100%;
+  top: 65px;
+  height: 500px;
+}
+
+.carousel-inner .item .carousel-text {
+  height: 500px;
+  position: absolute;
+  top: 65px;
+  right: 0px;
+  width: 40%;
+  padding-left: 0em;
+  display: inline-block;
+  text-align: right;
+  padding-right: 18em;
+}
+
+.carousel-inner .item .carousel-text h2 {
+  font-size: 60px;
+}
+
+.carousel-inner .item .carousel-text h3 {
+  font-size: 35px;
+}
+
+
+.carousel-inner .item .carousel-image {
+  height: 500px;
+  width: 55%;
+  padding: 0 0px;
+  display: inline-block;
+  text-align: right;
+}
+
+.carousel-inner .item .carousel-image img {
+  padding: 50px 0px;
+  max-width: 100%;
+}
+
+.black {
+  background-color: black;
+  color: rgb(245, 245, 245);
+}
+
+.white {
+  background-color: white;
+  color: #333333;
+}
+
+.dark-grey {
+  background-color: #222;
+  color: rgb(245, 245, 245);
+}
