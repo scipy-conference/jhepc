@@ -17,7 +17,7 @@
       <div class="item active dark-grey">
         <div class="carousel-image">
 
-.. image:: carrousel/entry5.png
+.. image:: carousel/entry5.png
 
 .. raw:: html
 
@@ -31,7 +31,7 @@
       <div class="item black">
         <div class="carousel-image">
 
-.. image:: carrousel/entry3.png
+.. image:: carousel/entry3.png
 
 
 .. raw:: html
@@ -47,7 +47,7 @@
       <div class="item white">
         <div class="carousel-image">
 
-.. image:: carrousel/entry7.png
+.. image:: carousel/entry7.png
 
 .. raw:: html
 
