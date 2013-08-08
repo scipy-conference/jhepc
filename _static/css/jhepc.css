@@ -5,7 +5,7 @@ body {
 }
 
 p {
-  padding-right: 5em;
+  padding-right: 6em;
   padding-bottom: 1em;
   max-width: 70%;
 }
@@ -73,10 +73,18 @@ div.container{
 }
 
 div.container, footer {
-  padding: 5em 5em 5em 8em;
+  padding: 5em 8em 5em 14em;
 }
 
+div.container div#gallery {
+  margin-left: -8em;
+  margin-right: -2em;
+}
 
+div.container div#gallery h1 {
+  margin-left: 3em;
+  margin-right: 2em;
+}
 
 #carousel-container {
   width: 100%;
@@ -180,4 +188,5 @@ pre {
   width: 70%;
   font-family: monospace,serif;
   background-color: white;
+  padding: 20px;
 }
