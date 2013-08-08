@@ -1,7 +1,7 @@
 Entry 3 (Third Place)
 =====================
 
-.. image:: entry3.png
+.. figure:: entry3.png
 
 Authors
 -------
@@ -57,5 +57,6 @@ Source
 ------
 
 .. literalinclude:: entry3.py
+    :language: python
 
 - :download:`Python source <entry3.py>`

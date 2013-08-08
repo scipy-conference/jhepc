@@ -7,11 +7,11 @@ body {
 p {
   padding-right: 5em;
   padding-bottom: 1em;
-  max-width: 60%;
+  max-width: 70%;
 }
 
 div.navbar {
-  position: absolute;
+  position: fixed;
   width: 100%;
   top: 0;
   background-color: rgb(255, 255, 255);
@@ -84,7 +84,7 @@ div.container, footer {
   padding: 0;
 }
 
-h1 a.headerlink {
+h1 a.headerlink, h2 a.headerlink, h3 a.headerlink  {
   display: none;
   font-weight: normal;
 }
@@ -93,6 +93,12 @@ h1 {
   padding-top: 50px;
   padding-bottom: 30px;
   font-family: 'PT Sans', serif;
+}
+
+h2 {
+  font-family: 'PT Sans', serif;
+  font-size: 1.3em;
+  font-weight: bold;
 }
 
 .carousel-inner {
@@ -153,4 +159,25 @@ h1 {
 .dark-grey {
   background-color: #222;
   color: rgb(245, 245, 245);
+}
+
+.section img {
+  display: block;
+  margin: auto;
+  -webkit-border-radius: 10px; /* Saf3-4, iOS 1-3.2, Android <1.6 */
+  -moz-border-radius: 10px; /* FF1-3.6 */
+  border-radius: 10px; /* Opera 10.5, IE9, Saf5, Chrome, FF4, iOS 4, Android 2.1+ */
+  border: 2px solid #fff;
+  max-width: 75%;
+  max-height: 60%;
+}
+
+.highlight {
+  background-color: transparent;
+}
+
+pre {
+  width: 70%;
+  font-family: monospace,serif;
+  background-color: white;
 }

@@ -15,15 +15,19 @@ Gallery
         text-align: center;
     }
 
+    .figure a {
+      width: 100%;
+    }
+
     .figure img {
+        float: none;
+        left: auto;
+        margin: 0;
+        padding: 0;
         display: inline;
+        position: relative;
         max-width: 250px;
         max-height: 250px;
-        z-index: -1;
-        -webkit-border-radius: 10px; /* Saf3-4, iOS 1-3.2, Android <1.6 */
-        -moz-border-radius: 10px; /* FF1-3.6 */
-        border-radius: 10px; /* Opera 10.5, IE9, Saf5, Chrome, FF4, iOS 4, Android 2.1+ */
-        border: 2px solid #fff;
     }
 
     .figure .caption {
@@ -35,7 +39,6 @@ Gallery
       font-weight: bold;
       font-size: 0.7em;
     }
-    /**/
     </style>
 
 

@@ -20,7 +20,8 @@
       <div class="item active white">
         <div class="carousel-image">
 
-.. image:: 2013/entry7/entry7.png
+.. image:: carousel/entry7.png
+   :target: 2013/entry7/index.html
 
 .. raw:: html
 
@@ -37,7 +38,7 @@
       <div class="item white">
         <div class="carousel-image">
 
-.. image:: 2013/entry10/entry10.png
+.. image:: carousel/entry10.png
 
 .. raw:: html
 
@@ -54,7 +55,7 @@
       <div class="item black">
         <div class="carousel-image">
 
-.. image:: 2013/entry3/entry3.png
+.. image:: carousel/entry3.png
 
 .. raw:: html
 
