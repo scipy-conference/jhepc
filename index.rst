@@ -14,25 +14,13 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-      <div class="item active dark-grey">
-        <div class="carousel-image">
-
-.. image:: carousel/entry5.png
 
 .. raw:: html
 
-      </div>
-      <div class="carousel-text">
-        <h2>2013</h2>
-        <h3>Third place</h3>
-      </div>
-
-      </div>
-      <div class="item black">
+      <div class="item active white">
         <div class="carousel-image">
 
-.. image:: carousel/entry3.png
-
+.. image:: 2013/entry7/entry7.png
 
 .. raw:: html
 
@@ -41,13 +29,32 @@
           <h2>2013</h2>
           <h3>First place</h3>
         </div>
-
       </div>
+
+
+.. raw:: html
 
       <div class="item white">
         <div class="carousel-image">
 
-.. image:: carousel/entry7.png
+.. image:: 2013/entry10/entry10.png
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2013</h2>
+          <h3>Second place</h3>
+        </div>
+      </div>
+
+
+.. raw:: html
+
+      <div class="item black">
+        <div class="carousel-image">
+
+.. image:: 2013/entry3/entry3.png
 
 .. raw:: html
 
@@ -56,8 +63,8 @@
           <h2>2013</h2>
           <h3>Third place</h3>
         </div>
-
       </div>
+
     </div>
 
     <!-- Controls -->
