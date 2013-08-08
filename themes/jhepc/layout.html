@@ -37,7 +37,7 @@
 {% block header %}
   {%- block navbar -%}
   <div class="navbar">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="{{ pathto('index') }}">
       <img src="{{ pathto('_static/logos/logo_1.png', 1) }}" \>
     </a>
     <ul class="nav navbar-nav">
@@ -46,7 +46,7 @@
           <img src="{{ pathto('_static/logos/button_orange.png', 1) }}">
         </a>
         </li>
-      <li><a href="#">Gallery
+      <li><a href="{{ pathto('gallery') }}">Gallery
           <img src="{{ pathto('_static/logos/button_blue.png', 1) }}">
           </a>
       </li>
