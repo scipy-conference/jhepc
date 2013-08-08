@@ -67,7 +67,7 @@ Gallery
 
 
 .. figure:: thumbnails/entry8.png
-   :target: ./2013/entry5/index.html
+   :target: ./2013/entry8/index.html
 
    2013 - honorable mention
 
