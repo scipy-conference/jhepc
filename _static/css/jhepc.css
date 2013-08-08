@@ -111,7 +111,7 @@ h1 {
   position: absolute;
   top: 65px;
   right: 0px;
-  width: 40%;
+  width: 35%;
   padding-left: 0em;
   display: inline-block;
   text-align: right;
@@ -129,7 +129,7 @@ h1 {
 
 .carousel-inner .item .carousel-image {
   height: 500px;
-  width: 55%;
+  width: 60%;
   padding: 0 0px;
   display: inline-block;
   text-align: right;
@@ -137,7 +137,7 @@ h1 {
 
 .carousel-inner .item .carousel-image img {
   padding: 50px 0px;
-  max-width: 100%;
+  max-width: 80%;
 }
 
 .black {
