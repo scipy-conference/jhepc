@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'2013 Scipy John Hunter Excellence in Plotting Contest Entries'
-copyright = u'2013, Michael Droettboom'
+copyright = u'2013, Scipy Conference, designed by Nelle Varoquaux'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
