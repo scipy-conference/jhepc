@@ -42,31 +42,57 @@ Gallery
     </style>
 
 
-.. figure:: thumbnails/entry7.png
+.. figure:: thumbnails/2014_entry6.png
+   :target: ./2014/entry6/index.html
+
+   2014 - first place
+
+.. figure:: thumbnails/2014_entry9.png
+   :target: ./2014/entry9/index.html
+
+   2014 - second place
+
+.. figure:: thumbnails/2014_entry15.png
+   :target: ./2014/entry15/index.html
+
+   2014 - third place
+
+.. figure:: thumbnails/2014_entry13.png
+   :target: ./2014/entry13/index.html
+
+   2014 - honorable mention
+
+.. figure:: thumbnails/2014_entry12.png
+   :target: ./2014/entry12/index.html
+
+   2014 - honorable mention
+
+
+.. figure:: thumbnails/2013_entry7.png
    :target: ./2013/entry7/index.html
 
    2013 - first place
 
 
-.. figure:: thumbnails/entry10.png
+.. figure:: thumbnails/2013_entry10.png
    :target: ./2013/entry10/index.html
 
    2013 - second place
 
 
-.. figure:: thumbnails/entry3.png
+.. figure:: thumbnails/2013_entry3.png
    :target: ./2013/entry3/index.html
 
    2013 - third place
 
 
-.. figure:: thumbnails/entry5.png
+.. figure:: thumbnails/2013_entry5.png
    :target: ./2013/entry5/index.html
 
    2013 - honorable mention
 
 
-.. figure:: thumbnails/entry8.png
+.. figure:: thumbnails/2013_entry8.png
    :target: ./2013/entry8/index.html
 
    2013 - honorable mention
