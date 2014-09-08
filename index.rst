@@ -22,7 +22,7 @@
         <div class="carousel-image">
 
 .. image:: carousel/2014_entry6.png
-   :target: 2013/entry6/index.html
+   :target: 2014/entry6/index.html
 
 .. raw:: html
 
