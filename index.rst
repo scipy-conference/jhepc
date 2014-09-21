@@ -15,12 +15,67 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
 
+
 .. raw:: html
 
-      <div class="item active white">
+      <div class="item active black">
         <div class="carousel-image">
 
-.. image:: carousel/entry7.png
+.. image:: carousel/2014_entry6.png
+   :target: 2014/entry6/index.html
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2014</h2>
+          <h3>First place</h3>
+        </div>
+      </div>
+
+
+.. raw:: html
+
+      <div class="item white">
+        <div class="carousel-image">
+
+.. image:: carousel/2014_entry9.png
+   :target: 2014/entry9/index.html
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2014</h2>
+          <h3>Second place</h3>
+        </div>
+      </div>
+
+
+.. raw:: html
+
+      <div class="item white">
+        <div class="carousel-image">
+
+.. image:: carousel/2014_entry15.png
+   :target: 2014/entry15/index.html
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2014</h2>
+          <h3>Third place</h3>
+        </div>
+      </div>
+
+
+.. raw:: html
+
+      <div class="item white">
+        <div class="carousel-image">
+
+.. image:: carousel/2013_entry7.png
    :target: 2013/entry7/index.html
 
 .. raw:: html
@@ -38,7 +93,7 @@
       <div class="item white">
         <div class="carousel-image">
 
-.. image:: carousel/entry10.png
+.. image:: carousel/2013_entry10.png
 
 .. raw:: html
 
@@ -55,7 +110,7 @@
       <div class="item black">
         <div class="carousel-image">
 
-.. image:: carousel/entry3.png
+.. image:: carousel/2013_entry3.png
 
 .. raw:: html
 
