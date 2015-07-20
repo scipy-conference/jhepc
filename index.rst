@@ -57,7 +57,7 @@
         <div class="carousel-image">
 
 .. image:: carousel/2015_entry3.png
-   :target: 2014/entry3/index.html
+   :target: 2015/entry3/index.html
 
 .. raw:: html
 
