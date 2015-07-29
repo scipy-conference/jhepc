@@ -18,5 +18,10 @@ amounts:
 We look forward to exciting submissions that push the boundaries of plotting,
 in this, our first attempt at this kind of competition.
 
-The SciPy Plotting Contest Organizer
--Michael Droettboom, Space Telescope Science Institute
+The SciPy Plotting Contest Organizers
+
+- Michael Droettboom, Space Telescope Science Institute
+
+- Jake Vanderplas, University of Washington
+
+- Phil Elson, United Kingdom Met Office

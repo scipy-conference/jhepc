@@ -18,7 +18,60 @@
 
 .. raw:: html
 
-      <div class="item active black">
+      <div class="item active white">
+        <div class="carousel-image">
+
+.. image:: carousel/2015_entry18.png
+   :target: 2015/entry18/index.html
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2015</h2>
+          <h3>First place</h3>
+        </div>
+      </div>
+
+
+.. raw:: html
+
+      <div class="item white">
+        <div class="carousel-image">
+
+.. image:: carousel/2015_entry15.png
+   :target: 2015/entry15/index.html
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2015</h2>
+          <h3>Second place</h3>
+        </div>
+      </div>
+
+.. raw:: html
+
+      <div class="item black">
+        <div class="carousel-image">
+
+.. image:: carousel/2015_entry3.png
+   :target: 2015/entry3/index.html
+
+.. raw:: html
+
+        </div>
+        <div class="carousel-text">
+          <h2>2015</h2>
+          <h3>Third place</h3>
+        </div>
+      </div>
+
+
+.. raw:: html
+
+      <div class="item black">
         <div class="carousel-image">
 
 .. image:: carousel/2014_entry6.png

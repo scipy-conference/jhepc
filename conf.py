@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'2013 Scipy John Hunter Excellence in Plotting Contest Entries'
-copyright = u'2013, Scipy Conference, designed by Nelle Varoquaux'
+project = u'2015 Scipy John Hunter Excellence in Plotting Contest Entries'
+copyright = u'2015, Scipy Conference, designed by Nelle Varoquaux'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = '2013ScipyJohnHunterExcellenceinPlottingContestEntriesdoc'
+htmlhelp_basename = '2015ScipyJohnHunterExcellenceinPlottingContestEntriesdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', '2013ScipyJohnHunterExcellenceinPlottingContestEntries.tex', u'2013 Scipy John Hunter Excellence in Plotting Contest Entries Documentation',
+  ('index', '2013ScipyJohnHunterExcellenceinPlottingContestEntries.tex', u'2015 Scipy John Hunter Excellence in Plotting Contest Entries Documentation',
    u'Michael Droettboom', 'manual'),
 ]
 
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', '2013scipyjohnhunterexcellenceinplottingcontestentries', u'2013 Scipy John Hunter Excellence in Plotting Contest Entries Documentation',
+    ('index', '2013scipyjohnhunterexcellenceinplottingcontestentries', u'2015 Scipy John Hunter Excellence in Plotting Contest Entries Documentation',
      [u'Michael Droettboom'], 1)
 ]
 
@@ -227,7 +227,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', '2013ScipyJohnHunterExcellenceinPlottingContestEntries', u'2013 Scipy John Hunter Excellence in Plotting Contest Entries Documentation',
+  ('index', '2013ScipyJohnHunterExcellenceinPlottingContestEntries', u'2015 Scipy John Hunter Excellence in Plotting Contest Entries Documentation',
    u'Michael Droettboom', '2013ScipyJohnHunterExcellenceinPlottingContestEntries', 'One line description of project.',
    'Miscellaneous'),
 ]

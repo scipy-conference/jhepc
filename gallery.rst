@@ -42,6 +42,21 @@ Gallery
     </style>
 
 
+.. figure:: thumbnails/2015_entry18.png
+   :target: ./2015/entry18/index.html
+
+   2015 - first place
+
+.. figure:: thumbnails/2015_entry15.png
+   :target: ./2015/entry15/index.html
+
+   2015 - second place
+
+.. figure:: thumbnails/2015_entry3.png
+   :target: ./2015/entry3/index.html
+
+   2015 - third place
+
 .. figure:: thumbnails/2014_entry6.png
    :target: ./2014/entry6/index.html
 
@@ -96,4 +111,3 @@ Gallery
    :target: ./2013/entry8/index.html
 
    2013 - honorable mention
-
